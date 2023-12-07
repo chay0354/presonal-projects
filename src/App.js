@@ -1,6 +1,6 @@
-import './App.css';
-import styled from 'styled-components'
-import PaymentPage from './components/PaymentPage';
+import "./App.css";
+import styled from "styled-components";
+import PaymentPage from "./components/PaymentPage";
 
 function App() {
   return (
@@ -14,11 +14,9 @@ export default App;
 
 const Container = styled.div`
   min-height: 100vh;
-  /* height:100%; */
   display: flex;
-  background-color: #D8D8D8 ;
-  flex-direction: column;
+  background-color: #f7f8fb;
   justify-content: center;
   align-items: center;
   cursor: default;
-`
+`;
