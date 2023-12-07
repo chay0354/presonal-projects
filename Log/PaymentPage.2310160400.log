@@ -1,0 +1,16 @@
+ UPDATE  The latest version of `serve` is 14.2.1
+ INFO  Accepting connections at http://localhost:3100
+ HTTP  10/16/2023 5:11:24 PM 192.160.20.1 GET /
+ HTTP  10/16/2023 5:11:24 PM 192.160.20.1 Returned 200 in 33 ms
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 GET /static/js/main.a6f8a296.js
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 GET /static/css/main.e1693de0.css
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 Returned 200 in 4 ms
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 Returned 200 in 14 ms
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 GET /favicon.ico
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 Returned 200 in 3 ms
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 GET /manifest.json
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 Returned 200 in 2 ms
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 GET /logo192.png
+ HTTP  10/16/2023 5:11:25 PM 192.160.20.1 Returned 200 in 3 ms
+
+ INFO  Gracefully shutting down. Please wait...
